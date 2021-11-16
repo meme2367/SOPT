@@ -7,7 +7,7 @@
   },
   "dependencies": {
     "async-json2csv": "^1.0.4",
-    "aws-sdk": "^2.478.0",
+    "aws-sdk": "^2.814.0",
     "cookie-parser": "~1.4.3",
     "crypto-promise": "^2.1.0",
     "csvtojson": "^2.0.8",
